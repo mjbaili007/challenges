@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1759477731 source:c:\users\ycode\documents\final\projetsass\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
